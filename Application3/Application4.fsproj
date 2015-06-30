@@ -124,7 +124,6 @@
     <Compile Include="LoginUI.fs" />
     <Compile Include="Main.fs" />
     <Content Include="Main.html" />
-    <Content Include="App.config" />
     <Content Include="packages.config" />
     <Content Include="jquery-1.11.2.min.js" />
     <None Include="Database.fsx" />
